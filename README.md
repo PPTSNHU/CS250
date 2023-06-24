@@ -7,7 +7,7 @@ This dislpays comprhensive understanding of Aglie/Scrum team framework of projec
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
- End Uare needs are met by developing software with constant customer collaboration through comprehensive end user QA testing. The initial user stories are created with cutomer input gathered by product manager or similar appointed team mate. 
+ End USer needs are met by developing software with constant customer collaboration through comprehensive end user QA testing. The initial user stories are created with cutomer input gathered by product manager or similar appointed team mate. 
  
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
